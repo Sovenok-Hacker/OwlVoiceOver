@@ -1,0 +1,5 @@
+torch
+requests
+PyQt6
+sounddevice
+soundfile
