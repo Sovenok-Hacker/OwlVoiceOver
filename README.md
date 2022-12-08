@@ -1,4 +1,5 @@
 # OwlVoiceOver
+![Silero logo](https://www.silero.ai/content/images/2021/05/White-on-blue-logo-silero-1.png)
 Простое приложение с модулем Silero TTS.
 Создано на основе PyQt6
 
